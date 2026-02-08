@@ -1,0 +1,9 @@
+modLoader="javafml"
+loaderVersion="[36,)"
+license="MIT"
+
+[[mods]]
+modId="alubapvpmod"
+version="1.0"
+displayName="Aluba PVP Mod"
+description='By in Aluba'
